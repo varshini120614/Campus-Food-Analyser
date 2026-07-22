@@ -1,17 +1,53 @@
 # campus_food_analyzer
 
-A new Flutter project.
+A Flutter-based mobile application that helps analyze campus dining experiences through user feedback, mood tracking, and interactive performance dashboards.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+-- Food rating and review system
+-- Mood tracking after meals
+-- Dashboard with satisfaction analytics
+-- Mood distribution visualisation
+-- Energy return index
+-- Clean Flutter UI
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+-- Flutter
+-- Dart
+-- Firebase
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+
+~~~
+lib/
+assets/
+android/
+ios/
+~~~
+
+## How to run
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/varshini120614/Campus-Food-Analyser.git
+   ```
+
+2. Install the dependencies
+   ```bash
+   flutter pub get
+   ```
+
+3. Run the application
+   ```bash
+   flutter run
+   ```
+
+## Future Improvements
+ -- Admin dashboard
+ -- AI powered food recommendations
+ -- More analytics
+ -- Push notifications
+
+ ## Author
+ Varshini Vidya Shankar
