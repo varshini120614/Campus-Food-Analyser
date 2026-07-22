@@ -4,18 +4,18 @@ A Flutter-based mobile application that helps analyze campus dining experiences 
 
 ## Features
 
--- Food rating and review system
--- Mood tracking after meals
--- Dashboard with satisfaction analytics
--- Mood distribution visualisation
--- Energy return index
--- Clean Flutter UI
-
+- Food rating and review system
+- Mood tracking after meals
+- Dashboard with satisfaction analytics
+- Mood distribution visualisation
+- Energy return index
+- Clean Flutter UI
+  
 ## Tech Stack
 
--- Flutter
--- Dart
--- Firebase
+- Flutter
+- Dart
+- Firebase
 
 ## Project Structure
 
@@ -44,10 +44,10 @@ ios/
    ```
 
 ## Future Improvements
- -- Admin dashboard
- -- AI powered food recommendations
- -- More analytics
- -- Push notifications
+ - Admin dashboard
+ - AI powered food recommendations
+ - More analytics
+ - Push notifications
 
  ## Author
  Varshini Vidya Shankar
