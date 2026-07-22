@@ -49,5 +49,28 @@ ios/
  - More analytics
  - Push notifications
 
- ## Author
+## App Screenshots
+
+### Welcome Screen
+![](Welcome.png)
+
+### Location Selection
+![](Location.png)
+
+### Budget Finder
+![](BudgetFinder.png)
+
+### Food Entry
+![](Entry.png)
+
+### Entry History
+![](EntryHistory.png)
+
+### Dashboard
+![](Dashboard1.png)
+
+### Dashboard Analytics
+![](Dashboard2.png)
+
+## Author
  Varshini Vidya Shankar
